@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHub work processes and integrations
+This is a repository dedicated to mastering Github commands and the first step into building breathtaking applications!
