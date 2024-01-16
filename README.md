@@ -6,3 +6,5 @@ This is a repository dedicated to mastering Github commands and the first step i
 👨‍🔧 Mechanical Engineer and 👨‍💼 HR Professional by experience
 💻 Aspiring develop in the field of AI, ML, Fullstack!
 🎮 passionate gamer of FPS, Arcade and Adventure Titles!
+
+I have a passion for Learning!
